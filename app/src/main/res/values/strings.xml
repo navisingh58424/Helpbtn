@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SE_project</string>
+    <string name="title_activity_scrolling">User Help Section</string>
+    <string name="large_text">
+
+
+        "Register: \n\n"
+        "User have to go to Go to user/member section and enter college id and password "
+        "and Manager also have to enter the password and Click on Register button for verifying "
+        "registration process. User will not be able to register if enter wrong ID or not belongs "
+        "to the oraganization of IIIT Allahabad.\n\n"
+
+         "Mail Registration: \n\n"
+        "This is a crucial process.User have to register the email address for entering into CC3 "
+        "building which is to be getting verified by the manager.A system generated mail will be "
+        "sent to the user who will regier themselves into the system and that mail will say that - "
+        "YOU'RE REGISTERED.\n\n"
+
+        "Login: \n\n"
+        "After registering successfully user can login into the system by entering UserID and "
+        "Passsword and Click on login button.\n\n"
+
+        "Exit: \n\n"
+        "Now User can logout if he wants to end the current session or move forward by pressing "
+        "Exit button on the page.\n\n"
+
+        "Change Password:\n\n"
+        "If User wants to change the current password, he can change it by clicking CHANGE PASSWORD "
+        "button just below Exit button.\n\n"
+
+        "Schedule : \n\n"
+        "This Button is used for scheduling the time alollted to user \n\n"
+        "Getting Alert:\n\n"
+        "Warning!! If user gets the mail from the system after expiring time limit for session, he "
+        "has to leave the building immediately after getting this notification message.\n\n"
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
